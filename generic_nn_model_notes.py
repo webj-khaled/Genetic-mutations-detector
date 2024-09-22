@@ -40,8 +40,7 @@ python3 generic_nn_model.py --mode predict --feature_file ./features_for_pred.cs
 *If not specified as a command line argument, the model will be trained for each one of the predefined options.
 User can also train the model using custom option, not existing in the predefined ones.
 
-Author: Nina Chaliasou
-Co-Author: Peter L
+Author: kHALED ADEL
 
 '''
 
